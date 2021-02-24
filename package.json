@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "James G",
 	"description": "This is a template app for API's",
+	"keywords": ["freecodecamp", "APIs and Microservices", "something else"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
